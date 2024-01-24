@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116529270720",
+    "project_id": "money-minds-66b65",
+    "storage_bucket": "money-minds-66b65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116529270720:android:ce92ed480c2738416dc225",
+        "android_client_info": {
+          "package_name": "com.example.money_minds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbChSoOMT9TF8bGPYeAfI9VzuA1oKcGZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
